@@ -1,4 +1,7 @@
-# Stagiary-Management
- I created a desktop application named "Stagiary Management" using Java. 
- This application efficiently manages and tracks the progress of interns within an organization, allowing for seamless onboarding, task assignment, and performance evaluation. 
- With its intuitive user interface and robust functionality, Stagiary Management simplifies the process of managing and monitoring interns, enhancing overall productivity and coordination.
+# Stagiary Management
+
+**Stagiary Management** is a desktop application developed in **Java** to streamline the management of interns within an organization.
+
+This solution facilitates efficient **onboarding**, **task assignment**, and **performance tracking**, providing a centralized system to monitor intern progress and contributions.
+
+Designed with an intuitive user interface and solid backend logic, the application enhances **coordination**, **productivity**, and **transparency** in internship programs, making it easier for teams to manage interns effectively.
